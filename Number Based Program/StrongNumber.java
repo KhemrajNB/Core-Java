@@ -15,7 +15,7 @@ public class StrongNumber {
 		return n==sum;
 	}
 	public static void main(String[] args) {
-		System.out.println(isStrong(145));
+		System.out.println(isStrong(146));
 
 	}
 
